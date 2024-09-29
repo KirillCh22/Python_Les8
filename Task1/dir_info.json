@@ -1,0 +1,37 @@
+[
+    {
+        "name": "concate_json.json",
+        "path": "E:\\Учеба в GeekBrains\\Семинары по Python(углубленная)\\Les8\\Task2\\concate_json.json",
+        "type": "file",
+        "size": 421,
+        "parent": "Task2"
+    },
+    {
+        "name": "concate_json_file.py",
+        "path": "E:\\Учеба в GeekBrains\\Семинары по Python(углубленная)\\Les8\\Task2\\concate_json_file.py",
+        "type": "file",
+        "size": 888,
+        "parent": "Task2"
+    },
+    {
+        "name": "employees1.json",
+        "path": "E:\\Учеба в GeekBrains\\Семинары по Python(углубленная)\\Les8\\Task2\\employees1.json",
+        "type": "file",
+        "size": 277,
+        "parent": "Task2"
+    },
+    {
+        "name": "employees2.json",
+        "path": "E:\\Учеба в GeekBrains\\Семинары по Python(углубленная)\\Les8\\Task2\\employees2.json",
+        "type": "file",
+        "size": 260,
+        "parent": "Task2"
+    },
+    {
+        "name": "employees3.json",
+        "path": "E:\\Учеба в GeekBrains\\Семинары по Python(углубленная)\\Les8\\Task2\\employees3.json",
+        "type": "file",
+        "size": 139,
+        "parent": "Task2"
+    }
+]
